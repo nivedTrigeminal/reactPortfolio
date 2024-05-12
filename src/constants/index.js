@@ -135,21 +135,21 @@ const experiences = [
     company_name: "Luminar Technolab",
     icon: microverse,
     iconBg: "#fff",
-    date: "Mar 2022 - May 2022",
+    date: "Sep 2022 - Feb 2023",
   },
   {
     title: "Junior Software Engineer",
     company_name: "BJeLT Technologies",
     icon: kelhel,
     iconBg: "#fff",
-    date: "May 2022 - Oct 2022",
+    date: "Oct 2022 - Oct 2023",
   },
   {
     title: "Full Stack Developer",
     company_name: "Trigeminal ai",
     icon: dcc,
     iconBg: "#fff",
-    date: "Sep 2022 - Present",
+    date: "Oct 2022 - Present",
   },
 ];
 
