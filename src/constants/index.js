@@ -149,7 +149,7 @@ const experiences = [
     company_name: "Trigeminal ai",
     icon: dcc,
     iconBg: "#fff",
-    date: "Oct 2022 - Present",
+    date: "Oct 2023 - Present",
   },
 ];
 
