@@ -15,15 +15,15 @@ const App = () => {
     <BrowserRouter>
       <div className="relative z-0">
         <Helmet>
-          <title>Nived Ram</title>
-          <meta
-            name="description"
-            content="Discover the portfolio of a skilled MERN Stack Developer. Explore cutting-edge projects and seamless user experiences"
-          />
-          <meta
-            name="keywords"
-            content="nived,ram,nivedram,nived portfolio,nived ram,full stack developers in kerala,react developer,fullstack developer,react developer bangloor"
-          />
+        <title>Nived Ram - Portfolio Website</title>
+    <meta
+      name="description"
+      content="Meet Nived Ram a skilled MERN Stack Developer. Explore a showcase of innovative projects, crafted with meticulous attention to detail and powered by the latest technologies. From dynamic web applications to seamless user experiences, dive into a world where creativity meets functionality. Let's build the future together, one line of code at a time."
+    />
+    <meta
+      name="keywords"
+      content="nived,ram,nivedram,nived portfolio,nived ram,full stack developers in kerala,react developer,fullstack developer,react developer bangloor"
+    />
         </Helmet>
         <div>
           <Navbar />
