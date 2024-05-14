@@ -15,6 +15,7 @@ const App = () => {
     <BrowserRouter>
       <div className="relative z-0">
         <Helmet>
+          {/* content */}
         <title>Nived Ram - Portfolio Website</title>
     <meta
       name="description"
